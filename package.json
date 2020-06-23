@@ -1,6 +1,6 @@
 {
   "name": "spux-rss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "single page user experience",
   "main": "index.js",
   "module": "web_modules/rss.js",
@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/spux/rss.git"
   },
-  "keywords": ["spux"],
+  "keywords": [
+    "spux"
+  ],
   "author": "Melvin Carvalho <https://melvincarvalho.com/#me> (melvincarvalho@gmail.com)",
   "bugs": {
     "url": "https://github.com/spux/rss/issues"
