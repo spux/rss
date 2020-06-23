@@ -5,7 +5,7 @@
   "main": "index.js",
   "module": "web_modules/rss.js",
   "bin": {
-    "spux": "bin/rss.js"
+    "spux-rss": "bin/rss.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/spux/rss.git"
   },
-  "keywords": [
-    "spux"
-  ],
+  "keywords": ["spux"],
   "author": "Melvin Carvalho <https://melvincarvalho.com/#me> (melvincarvalho@gmail.com)",
   "bugs": {
     "url": "https://github.com/spux/rss/issues"
