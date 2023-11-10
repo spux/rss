@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/spux/rss#readme",
   "dependencies": {
-    "rss-to-json": "^1.1.1"
+    "rss-to-json": "^2.1.1"
   }
 }
